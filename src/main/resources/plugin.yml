@@ -1,0 +1,4 @@
+name: InstantPVP
+version: '${version}'
+main: quarri6343.instantpvp.InstantPVP
+api-version: 1.16
